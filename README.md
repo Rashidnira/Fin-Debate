@@ -9,9 +9,9 @@ The core idea: instead of relying on a single LLM pass (which tends to hedge tow
 The system has two main modules:
 
 **Evidence Preparation Module** (`evidence_collection.py`)
-- Evidence Extractor — pulls relevant facts from documents, checks temporal alignment
-- Evidence Verifier — decides if we have enough evidence or need more
-- Query Generator — creates targeted Google queries to fill gaps
+- Evidence Extractor — pulls relevant facts from documents, checks temporal alignment from google retrived top 15 results again each claim
+- Evidence Verifier — decides if the extracted evdience is sufficient to make verdict
+- Query Generator — creates targeted Google queries to fill gaps produced by evdinece verifier
 - Conflict Resolver — adds verified supplementary info when evidence is still incomplete
 
 These 4 agents work in a loop: extract from local KB → verify → if insufficient, generate queries → search the web → extract from results → verify again. Up to 2 iterations.
@@ -133,11 +133,7 @@ Prints overall and per-class metrics, confusion matrices, and exports `metrics_s
 
 - **GPT-4o-mini throughout**: All agents use the same model to keep the comparison fair across experiments. The performance differences come from architecture, not model capacity.
 
-## Notes
 
-- Evidence collection makes many API calls (LLM + SerpAPI) — budget accordingly. For 300 claims expect several hours of runtime.
-- The pipeline saves results incrementally, so you can safely interrupt and resume.
-- All LLM calls use temperature=0 for reproducibility.
 
 ## Citation
 
