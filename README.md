@@ -133,11 +133,6 @@ Prints overall and per-class metrics, confusion matrices, and exports `metrics_s
 
 - **GPT-4o-mini throughout**: All agents use the same model to keep the comparison fair across experiments. The performance differences come from architecture, not model capacity.
 
-## Notes
-
-- Evidence collection makes many API calls (LLM + SerpAPI) — budget accordingly. For 300 claims expect several hours of runtime.
-- The pipeline saves results incrementally, so you can safely interrupt and resume.
-- All LLM calls use temperature=0 for reproducibility.
 
 ## Citation
 
