@@ -9,7 +9,7 @@ The core idea: instead of relying on a single LLM pass (which tends to hedge tow
 The system has two main modules:
 
 **Evidence Preparation Module** (`evidence_collection.py`)
-- Evidence Extractor — pulls relevant facts from documents, checks temporal alignment from google retrived top 15 results again each claim
+- Evidence Extractor — pulls relevant facts from documents, checks temporal alignment from google retrived top 15 results against each claim
 - Evidence Verifier — decides if the extracted evdience is sufficient to make verdict
 - Query Generator — creates targeted Google queries to fill gaps produced by evdinece verifier
 - Conflict Resolver — adds verified supplementary info when evidence is still incomplete
