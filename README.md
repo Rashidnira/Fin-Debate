@@ -1,4 +1,4 @@
-# FIN-Debate: Multi-Agent Financial Fact-Checking
+# Fin-Debate: A Multi-Agent Deliberation Framework for Automated Fact-checking in Financial Domain
 
 This repo contains the code and dataset for our paper on evidence-grounded financial fact-checking using adversarial multi-agent deliberation.
 
