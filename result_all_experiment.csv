@@ -1,0 +1,301 @@
+claim_id,claim,date,ground_truth,zero_shot,bm25_rag,faiss_rag,delphi,fin_debate
+3,"president donald trumps tax law has tax breaks for billionaires, permanent; tax breaks for everybody else, expire.",2-Jul-25,HALF TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+5,"if every one of the 340 million people in america paid a new $35 copay to visit the doctor, that still wouldnt be enough to cover how much meta would get from just one tax break in donald trump's big beautiful bill""",24-Jun-25,HALF TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+9,the republican tax and spending bill will provide a tax cut for social security recipients.,4-Jun-25,HALF TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE,HALF TRUE
+12,president donald trumps tax and spending bill does not add to the deficit.,19-May-25,FALSE,FALSE,HALF TRUE,HALF TRUE,FALSE,FALSE
+18,the single biggest driver of our national debt since 2001 has been republican tax cuts.,20-Feb-25,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,TRUE,HALF TRUE
+22,trump passed a new law that whoever is paying the child support will get to declare those children on their taxes.,18-Jan-25,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+23,fox news reported california gov. gavin newsom will withhold californias federal income tax.,9-Nov-24,FALSE,FALSE,FALSE,HALF TRUE,HALF TRUE,FALSE
+29,"in manchester, n.h., gubernatorial candidate joyce craig pushed for a city sales tax. then, joyce craig overrode the tax cap and tried to raise taxes six times.",12-Sep-24,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+33,"former president donald trump ""intends to enact what, in effect, is a national sales tax ... that would raise prices on middle-class families by almost $4,000 a year.""",22-Aug-24,HALF TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,TRUE
+61,"americans who worked through the pandemic are being paid up to $26,000 by qualifying for the employee retention credit.",6-Jan-23,FALSE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+65,mandela barnes supported a 20% increase in the gas tax.,26-Sep-22,HALF TRUE,FALSE,FALSE,FALSE,HALF TRUE,TRUE
+67,the child tax credit passed under president joe biden has helped 97% of the families with children who are living in poverty.,29-Aug-22,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+69,"joe biden and raphael warnock ""are spending $1.5 billion on urban forestry and raising taxes on those making under $200k to pay for it.",22-Aug-22,HALF TRUE,FALSE,HALF TRUE,HALF TRUE,FALSE,HALF TRUE
+70,harvard is sitting on top of a $54 billion hedge fund they call an endowment that they pay zero taxes on. yale has $31 billion. stanford $29 billion. princeton $26 billion.,24-Aug-22,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+71,"the nonpartisan congressional budget office says with the supersized staff, the irs audit rate would rise for all taxpayers regardless of income, and would even result in audits of innocent americans who have paid their taxes and dont owe the irs anything.",24-Aug-22,HALF TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+72,student debt relief is taxable by the internal revenue service.,25-Aug-22,FALSE,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE
+79,photos show an irs agent training class.,16-Aug-22,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+88,"a democratic bill negotiated between sens. joe manchin and chuck schumer would ""increase taxes on millions of americans across every income bracket.""",30-Jul-22,HALF TRUE,HALF TRUE,TRUE,TRUE,TRUE,HALF TRUE
+96,"gov. tony evers ""wanted to increase your taxes by $1 billion just for heating your homes. instead, republicans cut your taxes by more than $2 billion.""",18-Apr-22,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+99,"""ron johnson pushed through a special tax loophole that benefited his own family's business then he cashed out of the company for $5 million doubled his wealth since taking office.""",21-Feb-22,HALF TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+100,j.d. vance called for higher taxes.,12-Apr-22,HALF TRUE,FALSE,TRUE,TRUE,HALF TRUE,HALF TRUE
+103,"gov. tony evers ""tried to make us pay even more at the pump by hiking the gas tax.""",7-Mar-22,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+107,"president joe biden ""is trying to send taxpayer dollars to manufacturers overseas that do not abide by the same standards we do at home.""",3-Feb-22,HALF TRUE,HALF TRUE,FALSE,FALSE,FALSE,FALSE
+123,"this infrastructure bill on page 2,385 presents a federal property tax of 3 percent on all homes and land - both residential and commercial.",3-Oct-21,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+141,foxconn is the largest taxpayer in racine county.,19-Apr-21,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+152,were the only major gas-producing state in the us that doesnt have a severance tax.,22-Feb-21,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+161,"joe & jill bidens income went from $396,456 in 2016, to $16,596,979 in 2017-2019. anyone else want to know where that money is coming from?",19-Oct-20,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+163,abigail spanberger and other democrats voted to spend public funds on their political campaigns; up to $5 million...,8-Oct-20,HALF TRUE,FALSE,FALSE,FALSE,HALF TRUE,FALSE
+165,"""biden's plan is a 14% tax hike on middle class families.""",12-Oct-20,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE
+166,joe cunningham voted for $5 million in taxpayer funds to go into his and other politicians campaigns to pay for personal expenses and tv ads.,6-Oct-20,HALF TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+172,"joe biden passed a tax bill that gave us all these privileges for depreciation and for tax credits. we built a building, and we get tax credits like the hotel on pennsylvania ave.",29-Sep-20,HALF TRUE,HALF TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE
+189,killing the payroll tax means killing social security.,10-Aug-20,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+198,"on key issues including taxes, health care, the green new deal, abortion, and guns, there is no daylight between bernie sanders and joe biden.",5-Mar-20,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE
+200,california has a top income tax rate of 13.3% and people arent leaving.,25-Feb-20,HALF TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+203,"the budget hole in bernie sanders plans is bigger than the size of the entire economy of the united states.""",19-Feb-20,HALF TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE,FALSE
+212,"""we have the lowest corporate tax rate since 1968.""",8-Jan-20,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+215,"congress gave wall street ""trillions of dollars of zero interest loans.""",19-Oct-19,HALF TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+218,"the green new deal ""would put a $600,000 tax burden on every household.""",20-Sep-19,FALSE,FALSE,HALF TRUE,TRUE,FALSE,FALSE
+219,"milwaukee has less taxing power than most similar cities and is the only u.s. city of 400,000 or more ""that does not have a sales tax or local income tax.""",15-Sep-19,HALF TRUE,TRUE,HALF TRUE,TRUE,HALF TRUE,TRUE
+223,"property taxes have ""nothing to do with the state.""",19-Jul-19,HALF TRUE,FALSE,FALSE,FALSE,HALF TRUE,HALF TRUE
+241,"gov. tony evers' budget includes tax and fee increases even while spending ""more on his way to a nearly $2 billion deficit.""",2-Apr-19,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+244,"""governor evers' budget would increase property taxes by the largest amount in a decade""",27-Mar-19,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+257,"""there was virtually no new business investment"" after the 2017 tax law. ""the bulk was used to buy back their own stock.""",28-Jan-19,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+266,"with the republican tax law, ""the rich folks got $1.5 trillion.""",2-Jan-19,HALF TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+267,"he ""will put a moratorium on tax hikes to keep families in their homes.""",6-Dec-18,HALF TRUE,FALSE,FALSE,FALSE,HALF TRUE,HALF TRUE
+268,"""there is nothing that we have done on amazon that we have not done with hundreds of other projects.""",19-Nov-18,TRUE,TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE
+278,"revenues ""are actually up after tax reform.""",16-Oct-18,HALF TRUE,TRUE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE
+286,"""the latest round of tariffs now means that the total tax increase on americans from enacted tariffs exceeds the tax increases from the affordable care act.""",10-Oct-18,HALF TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,TRUE
+287,"tony evers will ""raise property taxes, raise income taxes and raise gas taxes by as much as a dollar a gallon.""",20-Sep-18,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+302,"""fully half the people our research is showing half the people in want to leave.""",30-Jul-18,HALF TRUE,FALSE,HALF TRUE,TRUE,HALF TRUE,FALSE
+307,"sen. dean heller ""wants to cut programs like social security and medicare to pay for tax cuts for his ultra-wealthy donors.""",13-Aug-18,HALF TRUE,TRUE,TRUE,TRUE,HALF TRUE,FALSE
+312,"""trump tax cut benefits all congressional districts, up to $44,697 per family.""",23-Jul-18,HALF TRUE,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE
+319,kevin cramer wants tocut social security and medicare to pay for tax cuts.,8-Jun-18,HALF TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,TRUE
+321,"""the bottom line is clear: under the policies of this unified republican government, american workers, families, and business owners are achieving economic growth that is unmatched in recent memory. more than 1 million new jobs have been created just since we passed tax reform last december.""",4-Jun-18,HALF TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+323,"""americans received the biggest tax cut in history last year.""",29-May-18,FALSE,HALF TRUE,TRUE,TRUE,HALF TRUE,TRUE
+330,"that on the tax reform law, democratic leaders ""are promising to take it all away.""",17-Apr-18,HALF TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+332,"""i am the only one onstage who has never voted to raise your taxes. these two, each, a billion dollars worth of votes to raise your taxes.""",23-Apr-18,HALF TRUE,HALF TRUE,HALF TRUE,FALSE,HALF TRUE,HALF TRUE
+338,"that unless the recipient called back about ""your tax filings,"" you ""will be taken into custody by the local cops as there are more serious allegations pressed on your name.""",10-Apr-18,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
+339,"""nancy pelosi vows democrats will raise taxes if they take back the house.""",5-Apr-18,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+349,"""70 percent of the income tax that the state collects happens to come from westchester, nassau, suffolk and new york city""",18-Jan-18,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+350,"""apple has just announced it plans to invest a total of $350 billion in america, and hire another 20,000 workers.""",30-Jan-18,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+354,"the republicans and president donald trump ""passed a tax bill that gave 80 percent of its benefits to the top 1 percent.""",16-Jan-18,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE,TRUE
+356,"""every taxpayer, their taxes are going down, except rich people in manhattan and san francisco. some of them, their taxes may go up.""",19-Dec-17,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+362,"in april, ""the vast majority will be on a single postcard.""",21-Dec-17,FALSE,TRUE,HALF TRUE,TRUE,FALSE,FALSE
+364,"the 1986 tax reform approved under ronald reagan ""was polling at about 18 percent right before they passed it.""",13-Dec-17,HALF TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,FALSE
+365,"the house tax plan ""would provide permanent tax cuts for individuals who are multi-millionaires and billionaires,"" but ""all middle-class families will eventually face a tax increase, since tax relief for them expires.""",29-Nov-17,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+371,"under the house republican tax plan, in wisconsin, ""the median household of four gets about a $2,000 tax cut, on average.""",1-Dec-17,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,TRUE,TRUE
+378,"""for years, they have not been able to get tax cuts -- many, many years, since reagan.""",29-Nov-17,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE
+379,"in the house republican bill, ""70 percent of the tax relief goes to those families making less than 200,000.""",26-Nov-17,HALF TRUE,HALF TRUE,FALSE,FALSE,HALF TRUE,TRUE
+380,"the gop tax plan ""sabotages the health care of 13 million americans.""",27-Nov-17,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+392,"congressional republicans ""want to take health care from millions of americans in order to pay for"" a tax bill.",14-Nov-17,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+396,"the republican tax plan ""helps families"" like one in which a woman lost her job and then lost her life savings fighting her husbands cancer.",7-Nov-17,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE,HALF TRUE
+400,"under the house republican tax proposal, ""the average family of four earning median income will receive an additional $1,182 in their pocket every year.""",5-Nov-17,HALF TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+402,"""with this plan, the typical family of four will save $1,182 a year on their taxes.""",3-Nov-17,HALF TRUE,TRUE,HALF TRUE,TRUE,HALF TRUE,TRUE
+403,"""tammy baldwin voted for $5 trillion in higher taxes.""",26-Oct-17,HALF TRUE,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE
+404,"""for the last 10 years, our economy has grown at less than 2 percent on average every single year for 10 years. we have not had a decade like that in a century in america.""",22-Oct-17,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+406,"the gop plan he supports is ""the biggest tax cut in u.s. history.""",25-Oct-17,FALSE,HALF TRUE,FALSE,FALSE,HALF TRUE,FALSE
+437,"""as governor, wolf has already proposed more than $8b in tax increases.""",24-Jul-17,HALF TRUE,TRUE,FALSE,HALF TRUE,HALF TRUE,TRUE
+440,"""more people, almost twice as many, pay the penalty or take the waiver than signed up for .""",11-Jul-17,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+463,"""a trip to mar-a-lago costs taxpayers approximately $3.6 million, according to a government accountability office report.""",16-Apr-17,HALF TRUE,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+465,"california will have the ""highest gas tax in the nation"" once its 12 cent gas tax hike goes into effect.",10-Apr-17,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
+467,"""under the republican health care repeal proposal north carolina faces the 2nd highest premium increase in the nation. north carolina residents will face an average cost increase of over $7,500.""",22-Mar-17,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+469,"under ""trumpcare,"" the republican replacement for obamacare, ""$600 billion worth of tax breaks will go to the wealthiest in this country.""",20-Mar-17,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+472,"condoms ""used to be tax-exempt here in texas.""",27-Feb-17,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+475,"70 percent of benefits in donald trumps proposal for child care ""go to the people making over $100,000 a year.""",5-Mar-17,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+479,"in the united states, ""we tax our exports and don't tax our imports.""",25-Jan-17,HALF TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE,FALSE
+484,"""i have never once raised the county tax levy -- not for seven straight years.""",10-Jan-17,TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+485,"""taxes for every new yorker are lower today than when i started""",16-Nov-16,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+499,"warren buffett has publicly said his secretary ""should not be paying a higher tax rate"" than him.",9-Oct-16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+503,"donald trumps tax plan gives the wealthy and corporations ""more than the bush tax cuts by at least a factor of two.""",9-Oct-16,TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,TRUE
+511,"""not one penny of bag ban tax goes to the environment.""",15-Aug-16,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+518,"according to ""independent experts,"" donald trump's tax plan ""would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy.""",26-Sep-16,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE,TRUE
+522,"mike gallaghers plan ""would cut social security benefits for two-thirds of seniors.""",1-Sep-16,HALF TRUE,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,FALSE
+523,"she ""would bring 186,740 new jobs to wisconsin"" and ""donald trump would cost wisconsin 61,050 jobs.""",22-Aug-16,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+532,"in washington, d.c., sen. richard burr ""took millions from special interests, went there and cashed in, voted to cut own taxes and raise taxes on working folks.""",22-Aug-16,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+533,"""hillary clinton wants to raise taxes by over a trillion dollars.""",23-Aug-16,HALF TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+536,"""i am the only candidate who ran in either the democratic or the republican primary who said from the very beginning i will not raise taxes on the middle class.""",17-Aug-16,FALSE,HALF TRUE,TRUE,TRUE,FALSE,FALSE
+538,"the obama administration has been ""raising taxes.""",4-Aug-16,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+550,"""for decades, the states gas tax has been among the highest in the nation.""",27-Jun-16,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+554,"""each corbett administration budget finished in the black.""",15-Jun-16,HALF TRUE,HALF TRUE,HALF TRUE,FALSE,HALF TRUE,TRUE
+566,"donald trumps ""only economic agenda is imposing massive taxes on the american people with a 40 percent tax hike of a giant tariff.""",1-May-16,HALF TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+574,"republican presidential candidate and gov. john kasich has spent 177 days out of state and used $350,000 in taxpayer money on his ""costly campaign.""",8-Apr-16,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+578,"""big soda has a lot of money.they make a lot of profit off their product and they market in neighborhoods that suffer from these very things that were trying to cure.""",27-Mar-16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+595,"florida: #51 in mental health care, #1 in home insurance costs, #1 in elder fraud, #1 in rent hikes.",18-Jul-25,HALF TRUE,FALSE,TRUE,TRUE,TRUE,HALF TRUE
+602,"a lot of times, health care comes with a job.",30-May-25,HALF TRUE,HALF TRUE,TRUE,TRUE,TRUE,HALF TRUE
+604,contractors are being rejected from providing hurricane helene relief in north carolina because of racial quotas required by the state.,2-Apr-25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+606,china makes 80% of all toys and 90% of all christmas goods sold in the u.s.,5-May-25,TRUE,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+609,"republicans just unveiled their big, beautiful bill, which will take medicaid & health insurance away from 13.7 million americans.",12-May-25,HALF TRUE,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+610,egg prices came down 50%,2-Apr-25,HALF TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE,FALSE
+615,video shows stacey abrams admits the $2 billion joe bidens epa gave her was used to buy votes of people in georgia by purchasing them new appliances.,9-Mar-25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+622,"under gov. ron desantis, in the last five years, spending has gone up 30%"" in florida.",5-Sep-23,HALF TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+637,scam artists are using amazon to send people face masks laced with something toxic.,10/25/2021,FALSE,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE
+642,"if you ask amazons alexa about the origin of the coronavirus pandemic, it says the government planned it.",3/31/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+648,"amazon is ""paying full-time employees so little that they require gov food assistance.""",6/17/2019,HALF TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+653,"amazon has removed ""an educational game about gettysburg.""",6/28/2015,HALF TRUE,FALSE,FALSE,FALSE,HALF TRUE,FALSE
+656,"elon musk said, the $299 tesla phone will be the end of the iphone.",11/19/2024,FALSE,FALSE,TRUE,TRUE,HALF TRUE,FALSE
+663,"u.s. inflation is ""now down close to 3%, the lowest among the worlds leading economies.""",8/29/2023,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+667,a new apple update will scan u.s iphones for images.,9/15/2021,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+671,google and apple put a covid tracker on every phone.,6/24/2020,HALF TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE,FALSE
+673,"""wisconsin lost over 600 farms last year & our farmers can't afford the #trumpshutdown.""",1/2/2019,TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+675,"on taxes, ""if you go back and look 50 years ago, individuals paid about 7 percent of the total and corporations paid 5 percent. fast forward 50 years: individuals still 7 percent, corporations (are) down to 2 percent.""",12/14/2017,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+678,"apple ceo steve jobs told president obama that the company moved factories to china because it needed 30,000 engineers.",11/22/2011,TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+682,"elon musk said, the boeing starliners stranded astronauts are not with us anymore, and they wont come back.",1/4/2025,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+683,elon musk has just acquired boeing.,1/1/2025,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+689,"""president obama and his national labor relations board"" sued boeing over its decision to open a plant in south carolina.",8/28/2012,HALF TRUE,TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+693,"she ""sued exxon mobil"" as california attorney general.",9/4/2019,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+698,coca-cola has lost $4 bil in market value as people are boycotting coke for their try to be less white statement.,6/25/2021,FALSE,HALF TRUE,HALF TRUE,FALSE,HALF TRUE,FALSE
+703,"coca-colas ceo ""said he finds it easier to do work in china than in the united states.""",9/30/2011,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+722,disney world is adding urinals to the womens restrooms.,2/25/2024,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+728,"disneyland estates have been used for mk-ultra mind control, human trafficking, occult rituals, and parading sexual deviants.",4/26/2022,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+733,"pfizer staged the will smith and chris rock confrontation at the academy awards because it ""has a new alopecia medication coming out.""",3/28/2022,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+750,"""we had 6,000 oil and gas spills in 2012"" with ""more oil and gas spreading in the united states than the entire exxon valdez spill.""",1/19/2014,TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+752,"the republican election platform ""was actually written with the help of a former lobbyist for aig and a former lobbyist for exxon-mobil.""",9/28/2010,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+760,"a cnn headline says, elon musk considers melting down statue of liberty to make series of limited edition cyber trucks""",12/1/2024,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+763,"elon musk: 'i am releasing tesla's $7,000 new car that runs on pure solar power!",11/16/2024,FALSE,FALSE,FALSE,HALF TRUE,FALSE,FALSE
+764,"""elon musk surprises the world with ford acquisition.""",11/7/2024,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+784,"in an interview with people magazine, kelly clarkson said she will file a lawsuit over keto ads on facebook.",5/6/2024,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+789,mitch mcconnells sister-in-law who drowned in a tesla is listed as the ceo of the company that owns the ship that hit baltimore bridge.,3/26/2024,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+791,the pfizer covid-19 vaccine shuts off recipients hearts.,1/22/2024,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+803,walmart is selling bicycles for $6.95 instead of recycling them.,7/19/2023,FALSE,FALSE,FALSE,HALF TRUE,HALF TRUE,FALSE
+826,the u.k. is no longer recommending the pfizer-biontech covid-19 mrna vaccine for pregnant women.,8/30/2022,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+845,photo shows a home depot worksheet on privilege used to train its employees.,3/22/2022,HALF TRUE,TRUE,HALF TRUE,TRUE,HALF TRUE,FALSE
+858,"dr. ugur sahin, ceo of biontech and inventor of the bio n tech pfizer jab, refuses to take the jab for safety reasons.",12/5/2021,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+867,blood starts to clot in a minute or two after a pfizer covid-19 vaccine injection.,10/27/2021,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+868,facebook is changing its hate speech policy to ban lets go brandon.,10/20/2021,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+871,the pfizer covid-19 vaccines contain a deadly parasite.,10/10/2021,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+872,"countless southwest airlines employees have walked out of their jobs to oppose the vaccine mandate, causing operations to effectively shut down.",10/10/2021,FALSE,HALF TRUE,HALF TRUE,FALSE,HALF TRUE,FALSE
+873,"""it's been confirmed that the pfizer covid-19 vaccine isn't guaranteed after six months.""",10/5/2021,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+876,"""pfizer launches final study for covid drug that's suspiciously similar to 'horse paste' ivermectin.",9/28/2021,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+877,"""verizon promotes defunding the police and (the) idea that america is fundamentally racist.""",8/26/2021,FALSE,FALSE,TRUE,TRUE,HALF TRUE,HALF TRUE
+882,mayo clinic study shows pfizer vaccine dropped to 42% effective.,8/12/2021,HALF TRUE,FALSE,TRUE,TRUE,TRUE,HALF TRUE
+883,a six-month study from pfizer shows that its vaccine reduces severe covid symptoms/hospitalizations by .1%.,8/4/2021,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+886,"sweden had few covid deaths in july, despite low vaccination rates, relaxed lockdown rules and low mask compliance.",8/2/2021,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+893,"the pfizer covid-19 vaccine is ""99% graphene oxide,"" which is ""toxic to the human body and causes a number of problems.",7/7/2021,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+894,professional soccer player christian eriksen received the pfizer vaccine days before he collapsed during a game.,6/13/2021,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+900,nike and lil nas x are launching demonic shoes containing human blood.,3/27/2021,HALF TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+906,facebook tried to shut down the campaign to recall california gov. gavin newsom.,1/28/2021,FALSE,HALF TRUE,FALSE,FALSE,FALSE,FALSE
+911,images that show a 90-year-old uk woman receiving the pfizer covid-19 vaccine appeared online in a cnn news story in october.,12/8/2020,FALSE,FALSE,TRUE,HALF TRUE,FALSE,FALSE
+912,facebook removed the title of president from donald trump and designated him as political candidate.,11/13/2020,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+913,facebook is banning trump from advertising for president.,9/1/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+950,"says ""christine blasey fords letter to sen. dianne feinstein revealed to be a total fake contains 14 glaring errors that could only be committed by a poorly educated writer.""",9/25/2018,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+954,"""michael jordan resigns from the board at nike-takes air jordans with him.""",9/5/2018,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+956,"""facebook removes, censors declaration of independence as hate speech""",7/5/2018,HALF TRUE,FALSE,TRUE,TRUE,HALF TRUE,TRUE
+961,"under president barack obama: 4 million jobs lost, unemployment rose from 7.8% to 9.9%, the s&p 500 was 1,115.1 and the gdp went down 2.8%.",1/30/2018,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE
+966,"the hiv virus has been ""detected in walmart bananas after 10 year old boy contracts the virus.""",2/6/2017,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+968,facebook has unveiled new rules to stop their users from creating posts related in any way to religion.,3/28/2015,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+970,"""a grant for $5,000 [from the governors workforce board] went to teach an employee at a company that makes ornamental business card holders how to use facebook and twitter.""",4/2/2014,FALSE,TRUE,TRUE,FALSE,TRUE,HALF TRUE
+980,"walmart employees represent the largest group of medicaid and food stamp recipients in many states, costing the taxpayer $1,000 per worker.",11/24/2012,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+981,president barack obama broke his promise to keep a wisconsin gm plant from closing.,8/29/2012,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+984,"""president obama will now own 60 percent of gm, and his union buddies will own almost 20 percent.""",6/1/2009,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+985,"""after taking hundreds of thousands of dollars from goldman sachs and other wall street banks, (debbie wasserman schultz) has voted to prevent the consumer financial protection bureau from regulating payday loans and addressing racial discrimination in car loans.""",3/24/2016,TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,TRUE
+986,"goldman sachs ceo said congress would ""have to cut social security, medicare and medicaid and give huge tax breaks to the wealthy and the large corporations.""",2/2/2016,HALF TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+989,"""she (kagan) took money from goldman sachs just like her boss, obama.""",5/10/2010,HALF TRUE,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+995,"susie lee and her husband ""own 17 homes across the country and use their private jet to take vacations,"" and invest in ""companies like walmart, halliburton and geo group.""",3/9/2016,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+999,"""already, the affordable care act is helping to slow the growth of (medicares) health care costs.""",2/12/2013,HALF TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1000,"ibm leader told obama that using ibm technology to cut fraud could ""pay for"" health care reform.",11/5/2011,HALF TRUE,TRUE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE
+1005,"the nike bill ""is not a tax break ... this does not lower the taxes that nike will pay nor does it prevent the legislature from raising those taxes in the future.""",12/13/2012,TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+1012,the pfizer covid-19 vaccine is not approved.,9/2/2021,FALSE,FALSE,TRUE,FALSE,HALF TRUE,FALSE
+1013,"""in houston, texas, there are more brothels than there are starbucks.""",6/27/2018,TRUE,FALSE,TRUE,TRUE,HALF TRUE,TRUE
+1030,"the budget for the consumer financial protection bureau ""is only about 1 percent of the amount banks generate just from late fees and overdraft fees.""",5/24/2011,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1036,"""tens of billions of dollars (from taxpayer-funded bailouts) ... flowed straight through aig into the coffers of foreign corporations and foreign banks.""",3/17/2009,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1039,"at general motors, ceo mary barra ""took home almost 22 million dollars last year alone (295x your company's average employee).""",11/27/2018,TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,TRUE
+1043,mercedes said high taxes and the cost of doing business in new jersey worked to georgias advantage in landing the company's usa corporate headquarters.,1/6/2015,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1050,"tennessee is providing ""millions of dollars"" to virtual school company for ""results at the bottom of the bottom.""",8/31/2012,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1052,"ilana shafran mandels stake in forest city enterprises ""constitutes significantly less than 1 percent"" of the companys shares and any implication of a conflict of interest ""is legally incorrect.""",11/4/2011,TRUE,TRUE,FALSE,FALSE,HALF TRUE,TRUE
+1054,"the company i created, point judith capital, ""is the only venture capital firm in rhode island.""",7/1/2010,TRUE,FALSE,HALF TRUE,FALSE,HALF TRUE,FALSE
+1055,"rick scott has heavily invested in a company that is geared to helping illegal aliens transfer money to family and friends out of the country.""",6/15/2010,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE,TRUE
+1059,"""grateful insurance company executives and their lobbyists"" from bermuda gave mccain $50,000.",9/23/2008,TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+1085,"""right now, america has $1.1 trillion of student debt. thats more than credit card debt.""",5/29/2014,TRUE,TRUE,HALF TRUE,FALSE,FALSE,TRUE
+1088,"""at present spending levels, only citizens of new york have a greater local debt burden than texans.""",12/13/2013,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+1097,cobb is one of the largest school systems (in the nation) that is debt free.,2/22/2013,TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,TRUE
+1110,"""the national debt is equal to $48,700 for every american or $128,300 for every u.s. household. it is now equivalent to the size of our entire economy.""",1/24/2012,TRUE,HALF TRUE,HALF TRUE,FALSE,HALF TRUE,TRUE
+1111,"the national debt increased $16,000 every second george allen served in the u.s. senate.",12/7/2011,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+1112,"""ronald reagan raised the national debt 18 times.""",11/4/2011,TRUE,HALF TRUE,HALF TRUE,TRUE,TRUE,TRUE
+1120,"""thirty-four of the last 44 (debt ceiling increases) have been for less than a year. so, this notion that short-term is somehow the exception, it's actually the rule.""",7/25/2011,TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+1124,"then-sen. barack obama ""refused to raise the debt ceiling because he said president bush had failed in leadership.""",6/13/2011,TRUE,FALSE,TRUE,TRUE,TRUE,HALF TRUE
+1140,"""our spending has caught up with us, and our debt soon will eclipse the entire size of our national economy.""",1/5/2011,TRUE,TRUE,TRUE,HALF TRUE,TRUE,TRUE
+1145,"""the budget submitted by obama will add more to the debt than the outstanding debt of the previous 43 presidents combined.""",10/30/2010,TRUE,HALF TRUE,FALSE,FALSE,HALF TRUE,TRUE
+1149,"the national debt ""has gone up by $1,729,000,000 during the isner v. mahut match.""",6/24/2010,TRUE,TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+1151,"""if we just froze spending at 2007 levels ... by 2013 we would balance the budget ... and by 2020 we would cut the national debt in half.""",3/8/2010,TRUE,HALF TRUE,TRUE,FALSE,HALF TRUE,HALF TRUE
+1156,u.s. sen. kay bailey hutchison has voted nine separate times to raise the national debt ceiling.,11/30/2009,TRUE,TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE
+1159,"obama's budget plan would ""take national debt up to about 80 percent of gross national product. ... historically, it's been about 40 percent.""",3/25/2009,TRUE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE,TRUE
+1170,"""latina workers make 54 cents for every dollar earned by white, non-hispanic men.""",12/8/2022,TRUE,TRUE,HALF TRUE,TRUE,HALF TRUE,TRUE
+1171,virginia women are paid 80 cents for every dollar paid to virginia men.,3/15/2022,TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+1184,"mitt romney is using ""a million of his presidential campaign dollars to finance his utah senate race.""",4/20/2018,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+1193,"the status quo led the general assembly to reduce pension payments four straight years starting in 2005, costing billions of dollars as the delay in contributions essentially borrowed from pension funds at a very high interest rate.",12/31/2016,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1199,"she ""is 6th in hard dollars raised and has more cash on hand than governors (john) kasich and (chris) christie combined.""",2/6/2016,TRUE,HALF TRUE,TRUE,TRUE,TRUE,HALF TRUE
+1216,"""women in oregon are paid 79 cents for every dollar paid to men. if the wage gap was eliminated, a working woman in oregon would have enough money for 2,877 gallons of gas, 72 more weeks of food for her family or nearly 12 more months of rent.""",4/8/2014,TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+1233,"as massachusetts governor, mitt romney used a line-item veto to cut ""millions of dollars for firefighting equipment,"" including firefighters' ""coats, pants, helmets and boots.""",6/12/2012,TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1239,"as dane county executive, kathleen falk raised property taxes by ""millions of dollars every year"" and approved the second highest increase in the state in 2010.",2/3/2012,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+1243,"""a couple retiring today will pay about $119,000 in lifetime medicare taxes and receive about $357,000 in lifetime medicare benefits. ... about 3 bucks in benefits for every dollar in taxes.""",11/1/2011,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1256,"in 2009, democratic wisconsin state senators ""rammed through a billion-dollar tax hike in 24 hours with no public input.""",2/19/2011,TRUE,HALF TRUE,FALSE,FALSE,HALF TRUE,FALSE
+1282,"""as a share of the us economy, the governments support for research and development (r&d) has fallen by nearly two-thirds since the 1960s.""",9/16/2011,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1284,"""the federal government is spending 25 percent of our entire economy versus 100 years ago we spent only 2 percent.""",7/25/2011,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+1286,the military accounts for about 10 percent of florida's economy.,12/6/2010,TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+1308,"under the new health care law, ""if a landscaper wants to buy a new lawnmower, or a restaurant needs a new ice-maker, they have to report that to the feds.""",8/24/2010,TRUE,TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+1328,"""the alternative minimum tax...was created by congress in 1969 to affect 155 wealthy americans. because it was never indexed for inflation, those original 155 taxpayers has increased to affect about 3.5-million in 2006.""",9/5/2007,TRUE,TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+1349,"""40% of the folks who have student loans do not have a college diploma, four-year diploma. these are people who are truck drivers and who are nail technicians and nurses aides.",8/28/2022,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1350,"image claims to show a list of ""republican members of congress whose ppp loans were forgiven.""",8/24/2022,TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+1357,"""the legislature was never given the opportunity to debate or vote on loaning $75 million to 38 studios.""",5/24/2012,TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+1359,"""i have repeatedly said that many of the predatory loans that were made in the mortgage system did target african-american and latino communities.""",8/1/2008,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1404,the north carolina state budget includes the largest cut in our personal income tax that weve ever seen.,9/25/2023,FALSE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+1408,"the average tax for billionaires is about 3%, which is a lower tax than a schoolteacher or a firefighter.""",2/15/2023,FALSE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1409,president joe biden cheated on his taxes and got away with it.,2/7/2023,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1437,"american taxpayer dollars provide free housing, free medical, free state identification to immigrants in the country illegally.",1/23/2022,FALSE,HALF TRUE,FALSE,FALSE,HALF TRUE,FALSE
+1440,never in american history has so much been spent at one time. never in american history will so many taxes be raised and so much borrowing be needed to pay for this reckless spending.,11/18/2021,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1441,"three percent is not a modest tax increase, if you own a $100,000 home in the city of buffalo, that means an extra $300 a year.",9/9/2021,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+1442,"under part 2 of the infrastructure bill, upon death the entire value of your accumulated wealth and estate will be taxed at 61%.",10/10/2021,FALSE,FALSE,FALSE,FALSE,HALF TRUE,FALSE
+1450,"""the top 1% pays 90% of income taxes.",9/14/2021,FALSE,HALF TRUE,FALSE,FALSE,HALF TRUE,FALSE
+1472,joe biden is proposing a tax increase thats the largest in american history.,10/1/2020,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1481,"joe biden and kamala harris would raise the federal income tax rate for a person with a bi-weekly gross salary of $3,000 to 39.6%, costing nearly half your paycheck.",8/23/2020,FALSE,HALF TRUE,FALSE,HALF TRUE,HALF TRUE,FALSE
+1484,"bidens tax rate on a family making 75,000 dollars would go from 12% to 25%.",8/16/2020,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1492,"i pay $165 a month on my student loans for the next 13 years to pay them off. with bernie sanders plan, my student loans will be forgiven. ill only have to pay $450 extra in taxes a month for the next 25 years to make sure ill have no more student debt.",2/28/2020,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1494,"bernie sanders wants free health care for all and was asked how he would pay for it. his answer was raise taxes to 52% on anybody making over $29,000 per year.",2/20/2020,FALSE,HALF TRUE,FALSE,FALSE,HALF TRUE,FALSE
+1504,"""indiana actually has a higher gas tax than illinois does even with the increase in (illinois) taxes.""",7/8/2019,FALSE,FALSE,FALSE,FALSE,HALF TRUE,FALSE
+1525,"leah vukmir ""claimed the open records law didn't apply to her, got sued, lost and cost taxpayers $15,000 in legal fees.""",7/12/2018,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1535,"""i released way more (tax) information than bruce rauner has.""",12/6/2017,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE,FALSE
+1548,"""closing the tobacco loophole would save missouri taxpayers $50,000,000""",4/14/2016,TRUE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+1565,"""trump proposed enacting the largest tax increase in american history.""",8/21/2015,TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE,FALSE
+1575,"""you can fill out your tax return in estonia online in five minutes.""",6/2/2015,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1586,the proposed transportation tax plan revokes a tax-credit for consumers electric cars while the state retains similar credits for similar vehicles for businesses.,2/10/2015,TRUE,TRUE,FALSE,HALF TRUE,HALF TRUE,TRUE
+1592,"""colorado raked in $60 million in marijuana taxes and licensing fees in the past year.""",1/5/2015,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+1604,"""we have a retiree that is collecting a $17,000 paycheck a month . . . tax free.""",9/30/2014,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1611,"on tax inversions, the wall street journal ""surprisingly attacked this tax scheme.""",8/27/2014,FALSE,HALF TRUE,FALSE,FALSE,HALF TRUE,HALF TRUE
+1616,"""the increase in the garbage tax that [mayor allan fung] imposed in cranston for some people has been as much as $200.""",7/15/2014,FALSE,HALF TRUE,FALSE,FALSE,HALF TRUE,TRUE
+1644,"milwaukee mayor tom barrett is responsible for the roughly $7,800 ""i pay in property taxes per year.""",1/31/2014,FALSE,HALF TRUE,FALSE,FALSE,HALF TRUE,FALSE
+1658,"damascus disincorporation would produce ""no significant tax savings.""",9/3/2013,FALSE,FALSE,FALSE,FALSE,HALF TRUE,HALF TRUE
+1662,"under cuccinellis tax cut plan, ""school divisions across virginia could be forced to fire over 8,000 teachers.""",9/12/2013,FALSE,TRUE,HALF TRUE,FALSE,HALF TRUE,TRUE
+1672,"oregons political tax credit is something ""every state should have and no other state does.""",7/9/2013,FALSE,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE
+1689,"""right now, texas doesnt have an income tax and oklahomas lowering their income tax rates, and guess what their severance tax is? sky high.""",3/21/2013,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+1696,"the fiscal cliff agreement was ""the largest tax increase in history.""",3/3/2013,FALSE,FALSE,HALF TRUE,TRUE,HALF TRUE,FALSE
+1698,"""there have been literally hundreds of new tax preferences and loopholes added to the code since 1986, last time we did this.""",2/20/2013,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1700,"a ""legacy of taxing and borrowing crippled the economy we inherited two years ago.""",3/5/2013,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1709,"""gross income tax receipts are exceeding the administrations projections for this fiscal year prior to sandy.""",1/8/2013,TRUE,HALF TRUE,FALSE,FALSE,TRUE,TRUE
+1719,"budget analysts say the looming tax hikes and spending cuts would ""take us into a recession and kill jobs.""",11/9/2012,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1736,"the federal tax code has ""loopholes that are giving incentives for companies that are shipping jobs overseas.""",10/3/2012,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1744,"the reason 29 states no longer have a death tax ""is that the tax damaged their economic competitiveness.""",9/7/2012,FALSE,HALF TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+1761,"ron saunders ""made the choice to stand with rick scott"" on expanding school vouchers, restricting scholarships and giving tax breaks to the wealthy.",8/6/2012,FALSE,FALSE,FALSE,FALSE,HALF TRUE,HALF TRUE
+1806,"he ""cut taxes by more than $600 million"" when he was governor.",2/23/2012,TRUE,TRUE,FALSE,FALSE,HALF TRUE,TRUE
+1817,"in newark ""were paying 80 percent of the school budget from local property taxes.""",1/5/2012,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+1841,"under a law proposed by wisconsin gov. scott walker, businesses that move into wisconsin ""don't have to pay any taxes"" on their income for two years.",11/4/2011,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+1844,"his proposed payroll tax cut ""will mean an extra $1,500 in your pocket compared to if we do nothing.""",10/18/2011,TRUE,TRUE,FALSE,FALSE,HALF TRUE,TRUE
+1863,"the proposed transportation bill ""could be the largest tax increase in georgia history.""",8/15/2011,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+1864,"that wall street hedge fund managers ""pay a lower tax rate than does a sheet metal worker in parma or a school teacher in cleveland.""",8/2/2011,TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+1867,"the ""mega-rich"" pay about 15 percent in taxes, while the middle class ""fall into the 15 percent and 25 percent income tax brackets, and then are hit with heavy payroll taxes to boot.""",8/14/2011,TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1892,"""there is no $30 million pot of money"" for redistricting issues, including defending redistricting lawsuits. ""your tax dollars are not being spent on anything like that.""",6/22/2011,FALSE,HALF TRUE,FALSE,FALSE,HALF TRUE,FALSE
+1896,"""taxpayers pay for roughly 45 percent of all births in wisconsin! and 60 percent of the births in milwaukee!!!""",6/2/2011,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+1904,"when ""the governor announced his jobs budget, 99 folks from the department of taxation were let go the next day.""",4/18/2011,TRUE,FALSE,FALSE,FALSE,HALF TRUE,TRUE
+1910,"""large majorities"" of the public ""oppose major changes to medicare"" and favor higher taxes on the wealthy.",4/18/2011,TRUE,TRUE,HALF TRUE,TRUE,HALF TRUE,TRUE
+1921,"oregon is ""near the top or at the top of the list"" when it comes to capital gains tax",3/10/2011,TRUE,FALSE,HALF TRUE,TRUE,HALF TRUE,TRUE
+1936,a 5-cent charge on paper bags is a tax.,2/8/2011,FALSE,FALSE,FALSE,FALSE,HALF TRUE,FALSE
+1940,property tax exemptions can be granted to small businesses that move into milwaukee county.,1/31/2011,FALSE,TRUE,HALF TRUE,TRUE,HALF TRUE,TRUE
+1945,the u.s. loses more on tax breaks than it collects in personal income taxes.,1/25/2011,TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,TRUE
+1970,that the federal gas tax has not been raised since 1993.,11/8/2010,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+1976,"kurt schrader ""cast the deciding vote that failed to extend tax cuts for oregons middle-class families and small businesses.""",10/8/2010,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1980,"""steve southerland did not pay his taxes in '05, '06, '07, '08 or '09.""",9/27/2010,FALSE,FALSE,HALF TRUE,HALF TRUE,HALF TRUE,FALSE
+1985,"""one of the other inaccuracies ... is that we have raised taxes multiple times and run up the budget. absolutely not true. one tax increase since ive been in office. it was a quarter mill tax in the unincorporated area only.""",9/14/2010,FALSE,TRUE,FALSE,FALSE,HALF TRUE,TRUE
+1989,"loranne ausley ""voted six times to tax your savings.""",9/16/2010,FALSE,HALF TRUE,TRUE,TRUE,HALF TRUE,FALSE
+2007,"""i don't think the argument can be credibly made that the united states of america is undertaxed compared to our competitors.""",7/26/2010,FALSE,TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+2027,"""the florida legislature raised taxes and fees by almost $2 billion"" in the 2009 session.",12/18/2009,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+2030,"""due to ... tax cuts and lower (property) values, 2009 property taxes were almost $3 billion below 2007 property taxes.""",3/2/2010,TRUE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+2051,"the obama administration's cap-and-trade plan would create ""a $1,761 yearly energy tax.""",9/16/2009,FALSE,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,HALF TRUE
+2063,"""geithner still didn't correct the same type of error for some years, even after the internal revenue service flagged him for the failure to pay the taxes in other years.""",1/14/2009,TRUE,HALF TRUE,TRUE,TRUE,HALF TRUE,TRUE
+2066,"""98 percent of small businesses make less than $250,000"" and would not see a tax increase under barack obama's plan.",10/15/2008,TRUE,TRUE,TRUE,TRUE,TRUE,HALF TRUE
+2069,"""senator obama has voted 94 times to either increase your taxes or against tax cuts.""",10/7/2008,FALSE,HALF TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+2081,"obama plans ""a tax increase for everyone earning more than $42,000 a year.""",8/11/2008,FALSE,FALSE,FALSE,HALF TRUE,FALSE,FALSE
+2088,"barack obama wants to ""restore"" the estate tax that george w. bush ""repealed.""",7/23/2008,FALSE,HALF TRUE,TRUE,TRUE,TRUE,TRUE
+2094,"""when he was asked a few years ago whether he could see himself lifting the cap on the payroll tax, (mccain) said, 'i could.' but today he's attacking me for holding the very same position.""",6/13/2008,TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE,TRUE
+2101,"every family health insurance policy has ""a $900 hidden tax"" to subsidize health care costs of the uninsured.",4/29/2008,TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+2117,"""sen. mccain says it was not a mistake to vote against the bush tax cuts ... but now says the tax cuts need to be made permanent.""",12/26/2007,TRUE,TRUE,TRUE,TRUE,HALF TRUE,TRUE
+2127,"""senator mccain voted against the bush tax cuts. now he's for them.""",4/26/2007,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+2140,"he ""helped to draft parts of the dodd-frank wall street reform bill.""",6/1/2016,HALF TRUE,FALSE,FALSE,FALSE,HALF TRUE,TRUE
+2143,she has opposed measures to weaken the dodd-frank wall street regulatory bill and campaign-finance legislation when they were offered as stand-alone bills.,1/6/2015,HALF TRUE,TRUE,TRUE,TRUE,HALF TRUE,FALSE
+2145,"""economic inequality in multnomah county has a face and a name. it has 90,000 faces and names the number of county residents who are still unemployed, or underemployed, in the wake of the 2008 wall street crash.""",4/15/2014,FALSE,TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+2146,"""eighty percent of wall street executives and their spouses' donations go to democrats.""",4/12/2014,FALSE,FALSE,FALSE,FALSE,HALF TRUE,FALSE
+2148,"""john cornyn has voted to increase the debt, raise taxes, bail out wall street banks and fund obamacare.""",12/9/2013,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE,HALF TRUE
+2149,"""we need to pass a carbon tax to stop climate change. break up the wall street banks. and stop the government spying on innocent americans. cory booker doesnt support any of these ideas.""",8/5/2013,HALF TRUE,HALF TRUE,HALF TRUE,TRUE,HALF TRUE,FALSE
+2161,"his office ""has already recovered over $2 billion from wall street for the workers, retirees, and investors who were harmed.""",7/6/2010,HALF TRUE,TRUE,FALSE,FALSE,HALF TRUE,TRUE
+2163,"new financial regulation ""actually guarantees future bailouts of wall street banks.""",4/14/2010,FALSE,HALF TRUE,TRUE,TRUE,HALF TRUE,HALF TRUE
+2165,gov. rick perry was for wall street bailout before he was against it.,1/14/2010,HALF TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
