@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the Fin-Debate paper."
+title: "Fin-Debate: A Multi-Agent LLM Framework for Automated Fact-Checking in the Financial Domain"
+type: software
+authors:
+  - family-names: "Rashid"
+    given-names: "M."
+  - family-names: "Hong"
+    given-names: "L."
+  - family-names: "Hossain"
+    given-names: "T."
+  - family-names: "Wang"
+    given-names: "N."
+  - family-names: "Hossain"
+    given-names: "K. S. M. T."
+  - family-names: "Ye"
+    given-names: "G."
+  - family-names: "Ryan"
+    given-names: "S."
+repository-code: "https://github.com/Rashidnira/Fin-Debate"
+preferred-citation:
+  type: article
+  title: "Fin-Debate: A multi-agent LLM framework for automated fact-checking in the financial domain"
+  authors:
+    - family-names: "Rashid"
+      given-names: "M."
+    - family-names: "Hong"
+      given-names: "L."
+    - family-names: "Hossain"
+      given-names: "T."
+    - family-names: "Wang"
+      given-names: "N."
+    - family-names: "Hossain"
+      given-names: "K. S. M. T."
+    - family-names: "Ye"
+      given-names: "G."
+    - family-names: "Ryan"
+      given-names: "S."
+  journal: "Information Processing & Management"
+  year: 2026
+  notes: "Forthcoming"

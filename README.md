@@ -138,3 +138,11 @@ Prints overall and per-class metrics, confusion matrices, and exports `metrics_s
 ## Citation
 
 Paper citation will be added upon publication.
+
+## Citation
+
+If you use this code or dataset, please cite:
+
+> Rashid, M., Hong, L., Hossain, T., Wang, N., Hossain, K. S. M. T., Ye, G., & Ryan, S. (2026).
+> Fin-Debate: A multi-agent LLM framework for automated fact-checking in the financial domain.
+> *Information Processing & Management*. Forthcoming.
